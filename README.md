@@ -1,5 +1,20 @@
 # NGShop
 
+<h1 align="center">:shopping: Welcome to my Shopping App :shopping:</h1>
+<p>
+</p>
+
+<img src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><img src= "<img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />" />
+## Author
+
+👤 **Murat YILMAZ**
+
+**Find me:**
+
+| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | www.linkedin.com/in/MuratYillmaz  |
+| ------------------------------------------------------------ | --------------------------------- |
+| <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | https://github.com/muratyilmaz743 |
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
 ## Development server
