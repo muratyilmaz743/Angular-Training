@@ -1,5 +1,3 @@
-# NGShop
-
 <h1 align="center">:pencil2: Welcome to my Angular Training Repo :pencil2:</h1>
 <p>
 I have some training codes in here.
